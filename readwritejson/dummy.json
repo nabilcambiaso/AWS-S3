@@ -1,0 +1,15 @@
+{
+  "name": "Nabil cambiaso",
+  "age": 30,
+  "email": "johndoe@example.com",
+  "address": {
+    "street": "123 Main St",
+    "city": "New York",
+    "country": "USA"
+  },
+  "hobbies": [
+    "reading",
+    "coding",
+    "playing guitar"
+  ]
+}
